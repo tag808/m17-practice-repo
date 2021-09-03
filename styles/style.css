@@ -47,3 +47,18 @@ p {
     width:200px;
     height: 200px;
  }
+
+ span {
+     border: 1px solid black;
+     border-radius: 4px;
+ }
+
+ span1 {
+    border: 1px solid red;
+    border-radius: 8px;
+}
+
+span2 {
+    border: 1px solid yellowgreen;
+    border-radius: 4px;
+}
