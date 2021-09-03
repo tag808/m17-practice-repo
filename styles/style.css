@@ -29,3 +29,15 @@ p {
     font-size: 20px;
     color: brown;
 }
+
+.brown {
+   background-color: brown; 
+}
+
+.lightsalmon {
+    background-color: lightsalmon; 
+ }
+
+ .grey {
+    background-color:#5a5858; 
+ }
