@@ -32,12 +32,15 @@ p {
 
 .brown {
    background-color: brown; 
+   width:200px;
 }
 
 .lightsalmon {
     background-color: lightsalmon; 
+    width:200px;
  }
 
  .grey {
     background-color:#5a5858; 
+    width:200px;
  }
