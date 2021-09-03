@@ -1,23 +1,30 @@
 
 h1 {
     font-family: 'Bebas Neue', cursive;
-    font-size:30px;
+    font-size:80px;
 }
 
 h2 {
     font-family: 'Bebas Neue', cursive;
+    font-size:40px;
+    font-weight:thin;
 }
 
 h3 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
     background: lightsalmon;
 }
 
 h4 {
-    
+    font-family: 'Varela Round', sans-serif;
+    font-size: 24px;
 }
 
 p {
     font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
     background-color: lightgray;
     color: brown;
 }
