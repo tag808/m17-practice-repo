@@ -1,11 +1,23 @@
-h3 {
-    background: lightsalmon;
-}
 
-p {
-    background: lightgrey;
+
+h1 {
+
 }
 
 h2 {
     font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+    background: lightsalmon;
+}
+
+h4 {
+    
+}
+
+p {
+    font-family: 'Varela Round', sans-serif;
+    background: lightgray;
+    background-color: brown;
 }
